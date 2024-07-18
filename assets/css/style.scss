@@ -2,6 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700');
+
+body {
+  font:14px/1.5 "LXGW WenKai Mono TC", Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
 section {
   padding:15px 20px;
   font-size:18px;
