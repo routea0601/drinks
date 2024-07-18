@@ -4,7 +4,7 @@ title: 路遊茶飲料區
 tagline: 路遊茶飲料區
 description: 路遊茶飲料區
 locale: zh_TW
-remote_theme: pages-themes/merlot@v0.2.0
+remote_theme: pages-themes/modernist@v0.2.0
 google_analytics: UA-78953126-2
 logo: /logo.jpg
 permalink: pretty
